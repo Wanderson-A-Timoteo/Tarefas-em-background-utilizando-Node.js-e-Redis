@@ -1,12 +1,12 @@
 {
-  "name": "Tarefas-em-background-utilizando-Node.js-e-Redis",
+  "name": "tarefas-em-background-utilizando-node.js-e-redis",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/Wanderson-A-Timoteo/Tarefas-em-background-utilizando-Node.js-e-Redis.git",
   "author": "Wanderson Timóteo <wanderson_timoteo@hotmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon src/server.js"
+    "start": "nodemon src/server"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
