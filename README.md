@@ -68,6 +68,7 @@ yarn add nodemon sucrase -D
 yarn add password-generator
 yarn add bull
 yarn add bull-board
+docker run --name redis -p 6379:6379 -d -t redis:alpine
 
 ```
 
