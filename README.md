@@ -84,8 +84,8 @@ Caso tenham dúvidas sobre o código do projeto, sintam-se a vontade em abrir um
 
 ## Agradecimentos
 
-![Preview](https://github.com/Wanderson-A-Timoteo/Ecoleta-Project/blob/master/public/icones/logo.svg?raw=true)
+![Preview](https://github.com/Wanderson-A-Timoteo/Tarefas-em-background-utilizando-Node.js-e-Redis/blob/master/cover_dio.jpg?raw=true)
 
 * Projeto construído durante as aulas do BootCamp Node.js Web Developer da [Digital Innovation One](https://web.digitalinnovation.one/), em Setembro de 2020. 
 
-* Agradecimento ao [Roberto Alves](https://github.com/robertosousa1) por compartilhar seu conhecimento e nos ensinar.
+* Agradecimento ao instrutor [Roberto Alves](https://github.com/robertosousa1) por compartilhar seu conhecimento e nos ensinar.
