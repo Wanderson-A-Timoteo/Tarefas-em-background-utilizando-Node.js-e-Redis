@@ -10,9 +10,12 @@ Nesse projeto foi aplicado os conceitos de processamento assíncrono de tarefas 
 * **[Node.Js](https://nodejs.org/en/)**
 * **[Express](http://expressjs.com/pt-br/
 )**
-* **[Mailtrap.io](https://mailtrap.io/)**
+* **[Redis](https://redis.io/
+)**
 * **[BULL](https://github.com/OptimalBits/bull
 )**
+* **[Mailtrap.io](https://mailtrap.io/)**
+
 
 
 
