@@ -7,16 +7,13 @@ Nesse projeto foi aplicado os conceitos de processamento assíncrono de tarefas 
 ## 🚀 Recursos Utilizados
 
 * **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=vuechatapp_swa-github-gllemos)**
+* **[Javascript](https://www.javascript.com/)**
 * **[Node.Js](https://nodejs.org/en/)**
-* **[Express](http://expressjs.com/pt-br/
-)**
-* **[Redis](https://redis.io/
-)**
-* **[BULL](https://github.com/OptimalBits/bull
-)**
+* **[Express](http://expressjs.com/pt-br/)**
+* **[Redis](https://redis.io/)**
+* **[BULL](https://github.com/OptimalBits/bull)**
 * **[Mailtrap.io](https://mailtrap.io/)**
-
-
+* **[Docker](https://www.docker.com/)**
 
 
 ## 🔥 Executando Localmente a Aplicação 
@@ -44,6 +41,14 @@ npm install
 Ao digitar a instrução acima, automaticamente ele irá baixar todas as dependências listadas e definidas no arquivo package.json:
 
 * `node_modules` - que contêm os packages do npm que precisará para o projeto.
+
+
+### Criar container para o banco Redis com Docker
+Execute no terminal para gerar o container:
+
+```
+> docker run --name redis -p 6379:6379 -d -t redis:alpine
+```
 
 #### 💨 Executando a Aplicação 
 
@@ -79,7 +84,7 @@ Caso tenham dúvidas sobre o código do projeto, sintam-se a vontade em abrir um
 
 ## Autor:
 
-* **Wanderson A. Timóteo** - [wanderson.ga](https://wanderson.ga)
+* [**Wanderson A. Timóteo**](https://wanderson.ga)
 
 
 ## Licença
